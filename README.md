@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dev-torugo
+- 👀 I’m interested in all technologies, photography and learn something new
+- 🌱 I’m currently learning SwiftUI, UIKit and Python 3.0
+- 📫 You can reach me at victorhacmo@gmail.com
